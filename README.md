@@ -150,3 +150,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![pub package](https://img.shields.io/pub/v/neumorphic_ui_kit.svg)](https://pub.dev/packages/neumorphic_ui_kit)
+[![likes](https://img.shields.io/pub/likes/neumorphic_ui_kit)](https://pub.dev/packages/neumorphic_ui_kit/score)
+[![popularity](https://img.shields.io/pub/popularity/neumorphic_ui_kit)](https://pub.dev/packages/neumorphic_ui_kit/score)
+[![pub points](https://img.shields.io/pub/points/neumorphic_ui_kit)](https://pub.dev/packages/neumorphic_ui_kit/score)
